@@ -1,6 +1,6 @@
 {
     "_JSON_": true,
-    "AUTHOR": "SamPandey001",
+    "AUTHOR": "EAZY",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -10,7 +10,7 @@
     "UPDATED_LOCAL": "Fresh Updates Installed!"
     },
     "global": {
-    "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮",
+    "botName": " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝔼𝔸ℤ𝕐",
     
     "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
     "greet2" : "Buddy",
@@ -40,7 +40,7 @@
     "antlink": "Link Detected.\n*Good Bye Worthless saiyan*",
     "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮*",
     "mention": " Please mention any user Onii-Chan",
-    "title": "𝐆𝐨𝐤𝐮",
+    "title": "𝔼𝔸ℤ𝕐",
     "footer": "𝐒𝐨𝐧-𝐆𝐨𝐤𝐮",
     "by": "Made by: CitelVoid",
     "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
